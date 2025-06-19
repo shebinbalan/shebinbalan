@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @Shebin Thekkepurakkal
-- 👀 I’m interested in ...Developing and Designing
-- 🌱 I’m currently learning advance laravel do projects and Python
-- 💞️ I’m looking to collaborate on with other developers
-- 📫 How to reach me 
+# 👋 Hi, I'm Shebin Balan
 
-<!---
-shebinbalan/shebinbalan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**PHP | Laravel | Yii | React | Fullstack Developer | Python | Django**
+
+🔭 I’m currently working on full-stack projects with Laravel and React || Django and React
+🌱 I’m learning advanced React patterns and microservices  
+📫 Reach me at: shebinkottoor@gmail.com  
+🌐 Portfolio: --------
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+
+</p>
