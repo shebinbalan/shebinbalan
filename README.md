@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shebin Balan
+# 👋 Hi, I'm Shebin TP
 
 **PHP | Laravel | Yii | React | Fullstack Developer | Python | Django**
 
